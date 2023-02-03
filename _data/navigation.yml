@@ -1,0 +1,13 @@
+# main links links
+main:
+  - title: "About Us"
+    url: /about_us/
+
+  - title: "Biking on MV"
+    url: /bike_mv/    
+
+  - title: "Places to See"
+    url: /places_mv/    
+
+  - title: "Reservations"
+    url: /reservations/    
