@@ -21,3 +21,8 @@ author_profile: false
 
 <br>
 
+<center>
+  <h3> For bicycle repair casts or inquries on purchasing new bikes and accessories give us a call at (508)-627-5928 or visit the shop at 8 South Water Street, Edgartown, MA 02539.
+</h3>
+</center>
+
