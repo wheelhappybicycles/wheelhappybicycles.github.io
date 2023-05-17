@@ -4,7 +4,7 @@ main:
     url: /about_us/
     
   - title: "Rental Prices"
-    url: /prices/
+    url: /rental_prices/
 
   - title: "Biking on MV"
     url: /bike_mv/    
