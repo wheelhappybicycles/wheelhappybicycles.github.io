@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Rental Prices"
-permalink: /prices/
+permalink: /rental_prices/
 author_profile: false
 ---
 
