@@ -1,10 +1,8 @@
 ---
-permalink: /
+layout: archive
 title: "Rental Prices"
 author_profile: false
-redirect_from: 
-  - /prices/
-  - /prices.html
+permalink: /prices/
 ---
 
 <hr>
