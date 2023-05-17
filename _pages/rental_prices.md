@@ -8,7 +8,7 @@ author_profile: false
 <hr>
 
 <center>
-  <| Bike Type                    | Price (Daily / Weekly)  |
+   | Bike Type                    | Price (Daily / Weekly)  |
    | -------------------          | ----------------------- |
    | [Bicycle](#)                 | $25.00 / $100.00        |
    | [w/Baby Seat](#)             | $30.00 / $120.00        |
