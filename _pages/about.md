@@ -13,15 +13,15 @@ redirect_from:
 <h2>RideHAPPY LiveHAPPY BeHAPPY</h2>
 </center>
 
-<img src="./images/wheel_hap_logo.png" alt="logo" class="center">
+<img src="./images/WH_logo_circle.jpg" alt="logo" class="center">
 
 <hr>
 
 <center>
-  <h3>Voted 2022 Best Bike Rentals, Martha's Vineyard by Boston Magazine!</h3>
-  <img src="./images/bob_22.png" alt="bob" class="center">
+  <h3>Voted Best Bike Rental Shop for Best of the Vineyard 2023, by Martha's Vineyard Magazine!</h3>
+  <img src="./images/front_page_picture.jpg" alt="front_page" class="center">
   <br>
-  <em>Not to be punny, but we’re wheelie happy this consistently lauded bike shop is there for all of our two-wheeled needs. A full-service retail, rental, and repair operation, it showcases brands like Liv (specifically designed for women) and Brooklyn Bicycle Co. (specifically designed for hipsters), all in tip-top shape. Rentals include a helmet, lock, basket, and map — which comes in handy after the staffers tell you all about their favorite places to bike on the island.</em>
+  <em>Bicycle races are coming your way, so forget all your duties and head to Wheel Happy. Whether you’re looking to buy, rent, or get your two wheels repaired, this is the place. On top of rentals and gear, Edgartown Bicycles has a website that shows maps of all the best biking routes.</em>
 
 </center>
 
