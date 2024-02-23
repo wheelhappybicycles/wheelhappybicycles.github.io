@@ -47,6 +47,6 @@ redirect_from:
 <center>
 <img src="./images/best_of/best_09.jpg" alt="Paris" class="center" height="100"><img src="./images/best_of/best_10.jpg" alt="Paris" class="center" height="100"><img src="./images/best_of/best_11.jpg" alt="Paris" class="center" height="100"><img src="./images/best_of/best_12.jpg" alt="Paris" class="center" height="100"><img src="./images/best_of/best_13.jpg" alt="Paris" class="center" height="100"><img src="./images/best_of/best_14.gif" alt="Paris" class="center" height="100">
 <br>
-<img src="./images/best_of/best_16.jpg" alt="Paris" class="center" height="100"><img src="./images/best_of/best_17.jpg" alt="Paris" class="center" height="100"><img src="./images/best_of/best_18.jpg" alt="Paris" class="center" height="100"><img src="./images/best_of/best_20.jpg" alt="Paris" class="center" height="100">
+<img src="./images/best_of/best_16.jpg" alt="Paris" class="center" height="100"><img src="./images/best_of/best_17.jpg" alt="Paris" class="center" height="100"><img src="./images/best_of/best_18.jpg" alt="Paris" class="center" height="100"><img src="./images/best_of/best_20.jpg" alt="Paris" class="center" height="100"><img src="./images/best_of/bov_2023.jpg" alt="Paris" class="center" height="100">
 </center>
 
