@@ -34,6 +34,14 @@ redirect_from:
 </center>
   
 <br>
+
+<hr>
+
+<center>
+  <img src="./images/bob_22.png" alt="bob" class="center">
+  <br>
+</center>
+
 <hr>
 
 <center>
