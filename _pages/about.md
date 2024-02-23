@@ -13,7 +13,9 @@ redirect_from:
 <h2>RideHAPPY LiveHAPPY BeHAPPY</h2>
 </center>
 
-<img src="./images/WH_logo_circle.jpg" alt="logo" class="center">
+<center>
+  <img src="./images/WH_logo_circle.jpg" alt="logo" class="center" width="50%">
+</center>
 
 <hr>
 
