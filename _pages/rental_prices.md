@@ -53,6 +53,6 @@ author_profile: false
 </table>
 
 <center>
-  <h3> For bicycle repair casts or inquiries on purchasing new bikes and accessories, call us at (508)-627-5928 or visit the shop at 8 South Water Street, Edgartown, MA 02539.
+  <h3> For bicycle repair costs or inquiries on purchasing new bikes and accessories, call us at (508)-627-5928 or visit the shop at 8 South Water Street, Edgartown, MA 02539.
   </h3>
 </center>
