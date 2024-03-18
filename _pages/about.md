@@ -23,7 +23,7 @@ redirect_from:
   <h3>Voted Best Bike Rental Shop of the Vineyard 2023, by Martha's Vineyard Magazine!</h3>
   <img src="./images/front_page_picture.jpg" alt="front_page" class="center">
   <br>
-  <em>Bicycle races are coming your way, so forget all your duties and head to Wheel Happy. Whether you’re looking to buy, rent, or get your two wheels repaired, this is the place. On top of rentals and gear, Edgartown Bicycles has a website that shows maps of all the best biking routes.</em>
+  <em>Bicycle riding is coming your way, so forget all your duties and head to Wheel Happy. Whether you’re looking to buy, rent, or get your two wheels repaired, this is the place. On top of rentals and gear.</em>
 
 </center>
 
