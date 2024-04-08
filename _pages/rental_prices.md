@@ -5,6 +5,20 @@ permalink: /rental_prices/
 author_profile: false
 ---
 
+<style>
+  table {
+    width: auto;
+    font-size: 12pt;
+    font-family: Courier New, Courier, monospace;
+    border-collapse: collapse;
+  }
+  th, td {
+    padding: 8px;
+    text-align: left;
+    border: 1px solid black;
+  }
+</style>
+
 <table>
   <thead>
     <tr>
@@ -50,12 +64,6 @@ author_profile: false
       <td>Performance</td>
       <td>&dollar;35.00</td>
       <td>&dollar;140.00</td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>Brooklyn</td>
-      <td>&dollar;30.00</td>
-      <td>&dollar;120.00</td>
     </tr>
     <tr>
       <td rowspan="2"></td>
