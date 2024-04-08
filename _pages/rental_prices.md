@@ -4,7 +4,7 @@ title: "Rental Prices"
 permalink: /rental_prices/
 author_profile: false
 ---
-<br>
+
 |     | Bike Type             | Price (Daily / Weekly)     |
 | --- | --------------------- | -------------------------- |
 |     | Bicycle               | \$25.00 / \$110.00        |
