@@ -47,31 +47,31 @@ author_profile: false
       <td class="price-column">&dollar;110.00</td>
     </tr>
     <tr>
-      <td class="image-column"><img src="place_holder_white.png" alt=""></td>
+      <td class="image-column"><img src="./images/place_holder_white.png" alt=""></td>
       <td class="type-column">w/Baby Seat</td>
       <td class="price-column">&dollar;30.00</td>
       <td class="price-column">&dollar;120.00</td>
     </tr>
     <tr>
-      <td class="image-column"><img src="place_holder_white.png" alt=""></td>
+      <td class="image-column"><img src="./images/place_holder_white.png" alt=""></td>
       <td class="type-column">Children (under 12)</td>
       <td class="price-column">&dollar;25.00</td>
       <td class="price-column">&dollar;100.00</td>
     </tr>
     <tr>
-      <td class="image-column"><img src="place_holder_white.png" alt=""></td>
+      <td class="image-column"><img src="./images/place_holder_white.png" alt=""></td>
       <td class="type-column">Tag-a-Long</td>
       <td class="price-column">&dollar;25.00</td>
       <td class="price-column">&dollar;100.00</td>
     </tr>
     <tr>
-      <td class="image-column"><img src="place_holder_white.png" alt=""></td>
+      <td class="image-column"><img src="./images/place_holder_white.png" alt=""></td>
       <td class="type-column">Trailer</td>
       <td class="price-column">&dollar;25.00</td>
       <td class="price-column">&dollar;100.00</td>
     </tr>
     <tr>
-      <td class="image-column"><img src="place_holder_white.png" alt=""></td>
+      <td class="image-column"><img src="./images/place_holder_white.png" alt=""></td>
       <td class="type-column">Performance</td>
       <td class="price-column">&dollar;35.00</td>
       <td class="price-column">&dollar;140.00</td>
@@ -87,7 +87,7 @@ author_profile: false
       <td class="price-column">&dollar;265.00</td>
     </tr>
     <tr>
-      <td class="image-column"><img src="place_holder_white.png" alt=""></td>
+      <td class="image-column"><img src="./images/place_holder_white.png" alt=""></td>
       <td class="type-column">Pedal Assist</td>
       <td class="price-column">&dollar;70.00 per day</td>
       <td></td>
