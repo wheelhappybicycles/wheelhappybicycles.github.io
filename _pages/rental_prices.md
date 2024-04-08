@@ -24,6 +24,10 @@ author_profile: false
   .type-column {
     text-align: right;
   }
+  .image-column img {
+    height: 20px; /* Adjust the height of the image */
+    vertical-align: middle; /* Align the image vertically with the text */
+  }
 </style>
 
 <table>
@@ -38,43 +42,43 @@ author_profile: false
   <tbody>
     <tr>
       <td></td>
-      <td>Bicycle</td>
+      <td class="type-column">Bicycle</td>
       <td class="price-column">&dollar;25.00</td>
       <td class="price-column">&dollar;110.00</td>
     </tr>
     <tr>
-      <td></td>
-      <td>w/Baby Seat</td>
+      <td class="image-column"><img src="place_holder_white.png" alt=""></td>
+      <td class="type-column">w/Baby Seat</td>
       <td class="price-column">&dollar;30.00</td>
       <td class="price-column">&dollar;120.00</td>
     </tr>
     <tr>
-      <td></td>
-      <td>Children (under 12)</td>
+      <td class="image-column"><img src="place_holder_white.png" alt=""></td>
+      <td class="type-column">Children (under 12)</td>
       <td class="price-column">&dollar;25.00</td>
       <td class="price-column">&dollar;100.00</td>
     </tr>
     <tr>
-      <td></td>
-      <td>Tag-a-Long</td>
+      <td class="image-column"><img src="place_holder_white.png" alt=""></td>
+      <td class="type-column">Tag-a-Long</td>
       <td class="price-column">&dollar;25.00</td>
       <td class="price-column">&dollar;100.00</td>
     </tr>
     <tr>
-      <td></td>
-      <td>Trailer</td>
+      <td class="image-column"><img src="place_holder_white.png" alt=""></td>
+      <td class="type-column">Trailer</td>
       <td class="price-column">&dollar;25.00</td>
       <td class="price-column">&dollar;100.00</td>
     </tr>
     <tr>
-      <td></td>
-      <td>Performance</td>
+      <td class="image-column"><img src="place_holder_white.png" alt=""></td>
+      <td class="type-column">Performance</td>
       <td class="price-column">&dollar;35.00</td>
       <td class="price-column">&dollar;140.00</td>
     </tr>
     <tr>
-      <td rowspan="2"></td>
-      <td rowspan="2">Cargo</td>
+      <td rowspan="2" class="image-column"></td>
+      <td rowspan="2" class="type-column">Cargo</td>
       <td class="price-column">&dollar;50.00</td>
       <td class="price-column">&dollar;200.00</td>
     </tr>
@@ -83,8 +87,8 @@ author_profile: false
       <td class="price-column">&dollar;265.00</td>
     </tr>
     <tr>
-      <td></td>
-      <td>Pedal Assist</td>
+      <td class="image-column"><img src="place_holder_white.png" alt=""></td>
+      <td class="type-column">Pedal Assist</td>
       <td class="price-column">&dollar;70.00 per day</td>
       <td></td>
     </tr>
