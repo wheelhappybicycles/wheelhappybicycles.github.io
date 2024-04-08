@@ -9,8 +9,9 @@ author_profile: false
   table {
     width: auto;
     font-size: 12pt;
-    font-family: Courier New, Courier, monospace;
+    font-family: Georgia, serif;
     border-collapse: collapse;
+    margin: 0 auto; /* Center the table */
   }
   th, td {
     padding: 8px;
