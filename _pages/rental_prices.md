@@ -58,10 +58,14 @@ author_profile: false
       <td>&dollar;120.00</td>
     </tr>
     <tr>
-      <td></td>
-      <td>Cargo</td>
-      <td>&dollar;50.00 / &dollar;65.00</td>
-      <td>&dollar;200.00 / &dollar;265.00</td>
+      <td rowspan="2"></td>
+      <td rowspan="2">Cargo</td>
+      <td>&dollar;50.00</td>
+      <td>&dollar;200.00</td>
+    </tr>
+    <tr>
+      <td>&dollar;65.00</td>
+      <td>&dollar;265.00</td>
     </tr>
     <tr>
       <td></td>
