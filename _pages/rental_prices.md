@@ -15,7 +15,7 @@ author_profile: false
   <tbody>
     <tr>
       <td><a href="#">Bicycle</a></td>
-      <td>$25.00 / $100.00</td>
+      <td>$25.00 / $110.00</td>
     </tr>
     <tr>
       <td><a href="#">w/Baby Seat</a></td>
@@ -23,11 +23,11 @@ author_profile: false
     </tr>
     <tr>
       <td><a href="#">Children (under 12)</a></td>
-      <td>$20.00 / $80.00</td>
+      <td>$25.00 / $100.00</td>
     </tr>
     <tr>
       <td><a href="#">Tag-a-Long</a></td>
-      <td>$20.00 / $80.00</td>
+      <td>$25.00 / $100.00</td>
     </tr>
     <tr>
       <td><a href="#">Trailer</a></td>
@@ -47,7 +47,7 @@ author_profile: false
     </tr>
     <tr>
       <td><a href="#">Pedal Assist</a></td>
-      <td>$60.00 per day</td>
+      <td>$70.00 per day</td>
     </tr>
   </tbody>
 </table>
