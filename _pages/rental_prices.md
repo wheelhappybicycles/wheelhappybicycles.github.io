@@ -71,12 +71,6 @@ author_profile: false
       <td class="price-column">&dollar;100.00</td>
     </tr>
     <tr>
-      <td class="image-column"><img src="../images/place_holder_white.png" alt=""></td>
-      <td class="type-column">Performance</td>
-      <td class="price-column">&dollar;35.00</td>
-      <td class="price-column">&dollar;140.00</td>
-    </tr>
-    <tr>
       <td rowspan="2" class="image-column"></td>
       <td rowspan="2" class="type-column">Cargo</td>
       <td class="price-column">&dollar;50.00</td>
