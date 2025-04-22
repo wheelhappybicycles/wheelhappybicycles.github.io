@@ -72,14 +72,14 @@ author_profile: false
     </tr>
     <tr>
       <td class="image-column"><img src="../images/place_holder_white.png" alt=""></td>
-      <td class="type-column"> Giant E Bike</td>
-      <td class="price-column">&dollar;90.00 per day</td>
+      <td class="type-column">Pedal Assist</td>
+      <td class="price-column">&dollar;70.00 per day</td>
       <td></td>
     </tr>
     <tr>
       <td class="image-column"><img src="../images/place_holder_white.png" alt=""></td>
-      <td class="type-column">Pedal Assist</td>
-      <td class="price-column">&dollar;70.00 per day</td>
+      <td class="type-column"> Giant E Bike</td>
+      <td class="price-column">&dollar;90.00 per day</td>
       <td></td>
     </tr>
   </tbody>
