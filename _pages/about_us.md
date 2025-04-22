@@ -6,7 +6,7 @@ author_profile: false
 ---
 
 <center>
-  <strong>Wheel Happy Bicycle Shops</strong> is a service, sales, and rental bicycle shop based on great customer service Wheel Happy Bicycle Shops is in its 31st year of business on Martha's Vineyard. We have one location for your bicycling needs in Edgartown. We are a seasonal shop open from April until December but can be reached in the off-season via email or our phone numbers. We have won Best Bicycle Shop on Martha's Vineyard 11 out of the last 14 years.
+  <strong>Wheel Happy Bicycle Shops</strong> is a service, sales, and rental bicycle shop based on great customer service. Wheel Happy Bicycle Shops is in its 33rd year of business on Martha's Vineyard. We have one location for your bicycling needs in Edgartown. We are a seasonal shop open from April until December, but can be reached in the off-season via email or our phone numbers. We have won Best Bicycle Shop on Martha's Vineyard 11 out of the last 16 years.
 
     
   <br>
